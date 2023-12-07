@@ -4,3 +4,5 @@
 - Level2: Use an api of quotes to fetch the sayings, if possible with the context. 
 - Level3: Use an nlp model to understand the complete context of the comment instead of just summoning words. 
 - Level4: Link the model to an llm (thinking llaama) so it can respond in the backend. 
+
+![Bot response screenshot](Screenshot 2023-12-07 at 19-30-54 reddit.png)
